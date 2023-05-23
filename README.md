@@ -9,4 +9,4 @@ Paste this command on the terminal
 streamlit run APP.py 
 
 # Note 
-make sure this is all on the same Dictorectory 
+Make sure this is all on the same Dictorectory 
