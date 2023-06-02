@@ -31,7 +31,6 @@ The DNA Sequencing Bioinformatics Web App is built using the following technolog
 
 - Python
 - Streamlit
-- HTML/CSS
 
 ## Contributions
 
