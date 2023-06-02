@@ -46,8 +46,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 If you have any questions or inquiries regarding the DNA Sequencing Bioinformatics Web App, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com). We appreciate your interest and look forward to hearing from you.
 
 **Happy DNA sequencing and exploring the mysteries of genetic codes!**
-
-
-
-
-Regenerate response
