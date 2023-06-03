@@ -1,4 +1,4 @@
-# BioSeqWeb: DNA Sequencing and Bioinformatics Web Application
+# BioSeqWeb: DNA Sequencing & Bioinformatics Web Application
 
 This robust and user-friendly web application is designed to empower researchers and enthusiasts alike by providing an efficient platform for analyzing DNA sequences and unraveling the mysteries hidden within their nucleotide composition. With its intuitive interface and powerful computational capabilities, users can effortlessly submit their DNA sequences for analysis and gain valuable insights into the intricate molecular makeup of these genetic codes.
 
